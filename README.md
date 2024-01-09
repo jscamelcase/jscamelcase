@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi, I'm Carl Paraskevas:
+- 💻I've been coding in JavaScript for 3+ years
+- 📚My current stack includes: HTML, CSS, JavaScript, and React
+- 🤓I'm learning PHP at the moment
+- 📝Sign up to my blog [here](jscamelcase.io)
+-  🗣️You can follow me on X at [@jscamelcase](https://twitter.com/jscamelcase)
+
+
+
+
 
 <!--
 **jscamelcase/jscamelcase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
