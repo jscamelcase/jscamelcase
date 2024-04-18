@@ -1,7 +1,6 @@
 ### Hi, I'm Carl Paraskevas:
-- 💻I've been coding in JavaScript for 3+ years
-- 📚My current stack includes: HTML, CSS, JavaScript, and React
-- 🤓I'm learning PHP at the moment
+- 💻I've been coding in JavaScript and PHP for 3+ years
+- 📚My current stack includes: HTML, CSS, JavaScript, PHP, Vue and React
 - 📝Sign up to my blog [here](jscamelcase.io)
 -  🗣️You can follow me on X at [@jscamelcase](https://twitter.com/jscamelcase)
 
