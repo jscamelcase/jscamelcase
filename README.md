@@ -1,11 +1,8 @@
 ### Hi, I'm Carl Paraskevas:
 - 💻I've been doing full-stack development with JavaScript and PHP for 5+ years
 - 📚My current stack includes: Node.js, Laravel, React, Vue, MySQL, MongoDB
-- 📝Sign up to my blog [here](jscamelcase.io)
+- 📝Sign up to my blog [here](https://jscamelcase.io)
 -  🗣️You can follow me on X at [@jscamelcase](https://twitter.com/jscamelcase)
-
-
-
 
 
 <!--
